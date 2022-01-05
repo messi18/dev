@@ -1,0 +1,8 @@
+
+https://regexr.com/
+RegExr is an online tool to learn, build, & test Regular Expressions (RegEx / RegExp).
+
+https://explainshell.com/explain?cmd=tar+xzvf+archive.tar.gz
+
+https://jsoneditoronline.org/
+
